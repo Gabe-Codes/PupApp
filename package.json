@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/gar0085/PupApp/issues"
   },
-  "homepage": "https://github.com/gar0085/PupApp#readme"
+  "homepage": "https://github.com/gar0085/PupApp#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express.js": "^1.0.0",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0"
+  }
 }
